@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"WEB",
+				"WEB_ACTV_NO_INT"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/IBM_ADMIN/Documents/GitHub/ZeroToCognitive/Chapter03/HTML/CSS/pageStyles.css",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/ZeroToCognitive/Chapter03/controller/restapi/features/speech_to_text.js",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/ZeroToCognitive/Chapter03/controller/restapi/router.js",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/ZeroToCognitive/Chapter03/manifest.yml",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/ZeroToCognitive/Chapter03/index.js",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/ZeroToCognitive/Chapter03/HTML/index.html",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/ZeroToCognitive/Chapter03/Documentation/answers/z2c-speech_complete.js",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/ZeroToCognitive/Chapter03/HTML/js/z2c-speech.js",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/ZeroToCognitive/Chapter03/controller/env.json",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/ZeroToCognitive/Chapter03/Documentation/answers/speech_to_text_complete.js",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/Project definition for DS projects",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Team meetings/Client success stragy overview",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/1. DSR Territory Management/MEA/Territory Manager in MEA",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/8. IGNITE/Feedback/Ignite meeting with HR learning team LA - 201702020",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20170202",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20170302",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20170223",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/AgoraLA/Agora LA - First meeting",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/Chat transcripts/Chat transcripts as a source of signal_20170301",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/1. DSR Territory Management/MEA/Data Science Plan for MEA 20170315",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Team meetings/Team meeting 20170308",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20170309",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Cognitive marketing meetings/Weekly Cognitive Marketing Meeting 20170126",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/2. Digital Sales/Top executive visits/Presentation to SSA leaders",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Team meetings/Brainstorm - ideas to expand commercial segment and SaaS Expansion",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/Pilot/Contact interest dashboard - 20161130",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/13. Project Endeavour/Bluemix IaaS data requirements",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/1. DSR Territory Management/MEA/Territory manger - MEA - Ahmed feedback",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/Pilot/Agora - Experience, feedback and next steps_20170302",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/Pilot/Agora - Experience, feedback and next steps_20170209",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/Pilot/Agora - Experience, feedback and next steps_20170203",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Agora - who is in the market/analyses/prev-responses/sql/pull-mktg-response.sql",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Agora - who is in the market/analyses/prev-responses/sql/pull-mktg-touches-outbound.sql",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/DBs/database-connections/R/pull-data-db2.R",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Agora - who is in the market/analyses/prev-responses/sql/pull-web-interest-indiv.sql",
+		"/C/Users/IBM_ADMIN/Desktop/desktop.ini",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/AUDIT DB2 database",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/3. Cloud/Bluemix/DashDB_Bluemix.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/DBs/Access to databases.txt",
+		"/C/DSIW connection BD2",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/Agora/data/URN_IDM_INDIV/URN_IDM_INDIV_LA_2017-03-15.csv",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/Agora/google-analytics.js",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/Agora/odbc.ini",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/DBs/Claves DBs.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/AgoraLA/AgoraDemo-shiny-20170313-115332-44881.log",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/url_tagging/queriesMPW/upload data to MPW from external sources.sql",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20170112",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/cron_procedures/archive_log_DSIW.sh",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/6. Others/Performance v Digital activity/Previous work.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/13. Project Endeavour/cerebellum/Project Endeavour comments.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/13. Project Endeavour/Bluemix IaaS data requirements_old",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/Pilot/First feedback - 20170113",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/requests/CAO/Buyer Reco in CoRE.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/6. Others/Performance v Digital activity/CSA + Digital data avalability",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20170216",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20170126",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/12. Territory design/model/Fourth Formulation.mod",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20170209",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/AgoraLA/data/contact_permissions/contact_permissions_2017-03-07.csv",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/Agora/data/contact_permissions/contact_permissions_2017-02-27.csv",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/DBs/database-connections/README.md",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/AgoraNA/data/interests.csv",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/Agora/data/INDIVIDUALS_INFO/EUROPE_IOT_INDIVIDUALS_INFO_EP_SAMPLE.csv",
+		"/C/Users/IBM_ADMIN/My Documents/SametimeFileTransfers/run db2.Rhistory",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/client-offering-recommendations/Step1ExtractESA/pull-opp.sql",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/client-offering-recommendations/Step1ExtractESA/pull-ombrand.sql",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/client-offering-recommendations/Step1ExtractESA/pull-prodcat.sql.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/data/interests/WEB_ACTV_INTERESTS/WEB_ACTV_INTERESTS_SAMPLE.csv",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/cron_procedures/Archived_log.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/client-offering-recommendations/Step1GetData/pull-opp.sql",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/client-offering-recommendations-copy-mine/Step3SparkML/scala/output.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/cron_procedures/probando.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/cron_procedures/hello.txt",
+		"/C/Program Files (x86)/IrfanView/i_languages.txt",
+		"/C/Users/IBM_ADMIN/Desktop/AgoraTest-shiny-20170123-155337-54808.log",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/data/ctrytable.csv",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Check point 2016",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/Interest_web_users/R/final/BL_WEB_ACTIVITY_INTERESTS_TEST_0.log",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/9. Client Health/ClientHealth/global.R",
+		"/C/Users/IBM_ADMIN/Desktop/output.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161215",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20170119",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/1. DSR Territory Management/TerritoryManager/data/raw/ICRs territories/ICRs Territories_20171H.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/1. DSR Territory Management/TerritoryManager/data/raw/Territories/territoriesLA_2017-1H.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/1. DSR Territory Management/TerritoryManager/data/raw/ICRs territories/ICRs Territories.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/1. DSR Territory Management/TerritoryManager/data/raw/Territories/territoriesLA_2H.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/1. DSR Territory Management/TerritoryManager/data/raw/Territories/RMT/FindCMR-Jan25.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/3. Cloud/Bluemix/Bluemix_market_basket/data/BLUEMIX_ASSOC_ACC_APP_1Q17.csv",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/1. DSR Territory Management/data/Territories/RMT/FindCMR-June02.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/1. DSR Territory Management/data/Territories/RMT/FindCMR-Jan25.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/ContactInterestProfiles/data/bps_to_exclude.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/ContactInterestProfiles/data/bps_to exclude.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/requests/Evan/Industry_mapping.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/3. Cloud/Bluemix/Bluemix_market_basket/sql/Pull data of services bluemix",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/8. IGNITE/IGNITE - Cognitive Sales Skills Dashboard - SSA",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/8. IGNITE/Feedback/IGNITE - Sellers credentials SSA&MX",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/1. DSR Territory Management/TerritoryManager/data/raw/REGION_GEO_MAP.csv",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/4. DORs/DORs - Denise 20160607",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/meetings/Contact-level insights - Bill - Heidi meeting",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Team meetings/Tom's metting 20160729",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Team meetings/Team meeting - 20160829",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/ContactInterestProfiles/documents/quantifying the level of interest -- frequency, re",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/support/Next best Offer - Marketing performance",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20160728",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20160901",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/5. TSS - MVS/feedback/MVS- Target, Feedback & Second stage_20150907.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20160827",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/6. Others/IS_Networking_Interest2016/Feedback - IS Revenue potential pilot",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Other request docum/Watson Company Analyzer (Crystal+)",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161006",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161013",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161020",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161027",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161103",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/8. IGNITE/Feedback/Ignite -feedback SSA",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161117",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161124",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/9. Client Health/Client health app.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/ContactInterestProfiles/google-analytics.js",
+		"/C/Users/IBM_ADMIN/Desktop/Claves DBs.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161201",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161110",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/ContactInterestProfiles/Agora-shiny-20161215-102051-41189.log",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/9. Client Health/ClientHealth/ui.R",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/ContactInterestProfiles/data/EUROPE_IOT_INDIVIDUALS_INFO_13DEC16.csv",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/9. Client Health/ClientHealth/ClientHealth-shiny-20161212-092544-58842.log",
+		"/C/Users/IBM_ADMIN/Desktop/GitHubLog.txt",
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/9. Client Health/ClientHealth/ClientHealth-shiny-20161207-151144-59346.log"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"z2c",
+			"disa",
+			"col-",
+			"mic_",
+			"DSIW",
+			"'",
+			"Download Da",
+			"Download da",
+			"str_replace",
+			"str_rep",
+			"esa",
+			"DSIW",
+			"WEB_ACTIVITY_INTEREST_TEST_2",
+			"'",
+			"\"",
+			"00963785",
+			"00963768",
+			" Industry",
+			"DB2",
+			"(SSA-Top)",
+			"::",
+			"offe",
+			"line.split(\"::\")",
+			":",
+			"ANALYTICS",
+			"SOCIAL",
+			"COMMERCE",
+			"SECURITY",
+			"CLOUD",
+			"SOCIAL",
+			"COMMERCE",
+			"ANALYTICS",
+			"me",
+			"mex",
+			"training",
+			"ratings",
+			"Recurr",
+			"pswrd",
+			"val training",
+			"'",
+			"\"",
+			"00963803",
+			"631",
+			"MVS",
+			"NA",
+			"Zhou",
+			"Hastie",
+			"[WAI]",
+			" ",
+			"     ",
+			"QMF",
+			"URU",
+			"#",
+			"$",
+			"\"",
+			"Para",
+			"pull",
+			"  ",
+			"\"",
+			"\\n",
+			"SW/PAST",
+			"PAST",
+			"SW/ILOGC",
+			"segments_revpotential_jan2016",
+			"ws_ANALYTICS_PTFORM_segments",
+			"ANALYTICS_INSIGHT_client",
+			"whites",
+			"ANALYTICS_INSIGHT",
+			"AVG_GRP_ANALYTICS_INSIGHT_ASOF",
+			"AHR_ANALYTICS_INSIGHT",
+			"S_ANALYTICS_INSIGHT",
+			"IBM",
+			"analyt",
+			"AVG_GRP_SECURITY_ASOF",
+			"IBM",
+			"GRP",
+			"IBM",
+			"GRP",
+			"AVG",
+			"GRP",
+			"SYS_MAINFRAME_set_final",
+			"AVG_",
+			"SYS_SW_Z_2015",
+			"MODEL_REV",
+			"GRPvars",
+			"PRIMARY_AVAIL",
+			"AGGREGATE_LAST",
+			"AGGREGATE_BEST",
+			"sys_tap",
+			"fin",
+			"SYS_",
+			"SYS_MAINFRAME",
+			"model_set_21jan16",
+			"CUSTNUM",
+			"Ö"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"WEB_ACTIVITY_INTERESTS_TEST",
+			"",
+			":",
+			"::",
+			"Cognitive",
+			"Analytics",
+			"Social",
+			"Commerce",
+			"Security",
+			"Cloud Middleware",
+			"Social",
+			"Commerce",
+			"Cognitive",
+			"Analytics",
+			"pswd",
+			" ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ZeroToCognitive-sublime.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
