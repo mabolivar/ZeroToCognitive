@@ -3,10 +3,10 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: Z2C
-  host: Z2C
+  name: Z2C-mbolivar
+  host: Z2C-mbolivar
   disk_quota: 1024M
   services:
-    - Speech to Text-xx
-    - Text to Speech-xx
-    - Natural Language Classifier-xx
+    - Speech to Text-lu
+    - Text to Speech-gr
+    - Natural Language Classifier-y1
