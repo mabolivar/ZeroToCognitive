@@ -11,6 +11,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Chapter07/index.js",
+			"settings":
+			{
+				"buffer_size": 4565,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Chapter07/key.pem",
+			"settings":
+			{
+				"buffer_size": 497,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -42,8 +58,67 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/D/GitHub/ZeroToCognitive",
+		"/D/GitHub/ZeroToCognitive/Chapter05",
+		"/D/GitHub/ZeroToCognitive/Chapter05/controller",
+		"/D/GitHub/ZeroToCognitive/Chapter05/controller/restapi",
+		"/D/GitHub/ZeroToCognitive/Chapter05/controller/restapi/features",
+		"/D/GitHub/ZeroToCognitive/Chapter05/Documentation/answers",
+		"/D/GitHub/ZeroToCognitive/Chapter05/HTML/js",
+		"/D/GitHub/ZeroToCognitive/Chapter06",
+		"/D/GitHub/ZeroToCognitive/Chapter06/controller",
+		"/D/GitHub/ZeroToCognitive/Chapter06/controller/restapi",
+		"/D/GitHub/ZeroToCognitive/Chapter06/controller/restapi/features",
+		"/D/GitHub/ZeroToCognitive/Chapter06/Documentation/answers",
+		"/D/GitHub/ZeroToCognitive/Chapter06/HTML/js",
+		"/D/GitHub/ZeroToCognitive/Chapter07",
+		"/D/GitHub/ZeroToCognitive/Chapter07/controller",
+		"/D/GitHub/ZeroToCognitive/Chapter07/controller/restapi",
+		"/D/GitHub/ZeroToCognitive/Chapter07/controller/restapi/features",
+		"/D/GitHub/ZeroToCognitive/Chapter07/Documentation",
+		"/D/GitHub/ZeroToCognitive/Chapter07/Documentation/answers"
+	],
 	"file_history":
 	[
+		"/D/GitHub/ZeroToCognitive/Chapter07/key.pem",
+		"/D/GitHub/ZeroToCognitive/Chapter07/controller/restapi/features/authenticate.js",
+		"/D/GitHub/ZeroToCognitive/Chapter07/Documentation/answers/authenticate_complete.js",
+		"/D/GitHub/ZeroToCognitive/Chapter07/Documentation/answers/z2c-login_complete.js",
+		"/D/GitHub/ZeroToCognitive/Chapter07/HTML/js/z2c-login.js",
+		"/D/GitHub/ZeroToCognitive/Chapter07/Documentation/answers/pageStyles_complete.css",
+		"/D/GitHub/ZeroToCognitive/Chapter07/HTML/CSS/pageStyles.css",
+		"/D/GitHub/ZeroToCognitive/Chapter07/controller/restapi/features/classifier.js",
+		"/D/GitHub/ZeroToCognitive/Chapter07/controller/env.json",
+		"/D/GitHub/ZeroToCognitive/Chapter06/manifest.yml",
+		"/D/GitHub/ZeroToCognitive/Chapter07/manifest.yml",
+		"/D/GitHub/ZeroToCognitive/Chapter06/controller/restapi/features/classifier.js",
+		"/D/GitHub/ZeroToCognitive/Chapter06/HTML/js/z2c-utilities.js",
+		"/D/GitHub/ZeroToCognitive/Chapter06/Documentation/answers/z2c-utilities_complete.js",
+		"/D/GitHub/ZeroToCognitive/Chapter06/HTML/js/z2c-speech.js",
+		"/D/GitHub/ZeroToCognitive/Chapter06/Documentation/answers/z2c-speech_complete.js",
+		"/D/GitHub/ZeroToCognitive/Chapter06/Documentation/answers/z2c-NLC_complete.js",
+		"/D/GitHub/ZeroToCognitive/Chapter06/HTML/js/z2c-NLC.js",
+		"/D/GitHub/ZeroToCognitive/Chapter06/HTML/js/z2c-dialog.js",
+		"/D/GitHub/ZeroToCognitive/Chapter06/Documentation/answers/z2c-dialog_complete.js",
+		"/D/GitHub/ZeroToCognitive/Chapter06/Documentation/answers/pageStyles_complete.css",
+		"/D/GitHub/ZeroToCognitive/Chapter06/HTML/CSS/pageStyles.css",
+		"/D/GitHub/ZeroToCognitive/Chapter05/HTML/bash-cmd-ch05.sh",
+		"/D/GitHub/ZeroToCognitive/Chapter06/controller/env.json",
+		"/D/GitHub/ZeroToCognitive/Chapter05/manifest.yml",
+		"/D/GitHub/ZeroToCognitive/Chapter05/index.js",
+		"/D/GitHub/ZeroToCognitive/Chapter05/controller/restapi/features/classifier.js",
+		"/D/GitHub/ZeroToCognitive/Chapter04/index.js",
+		"/D/GitHub/ZeroToCognitive/Chapter03/index.js",
+		"/D/GitHub/ZeroToCognitive/Chapter05/Documentation/industry.csv",
+		"/D/GitHub/ZeroToCognitive/Chapter05/controller/restapi/features/speech_to_text.js",
+		"/D/GitHub/ZeroToCognitive/Chapter05/HTML/CSS/pageStyles.css",
+		"/D/GitHub/ZeroToCognitive/Chapter05/HTML/js/z2c-NLC.js",
+		"/D/GitHub/ZeroToCognitive/Chapter05/Documentation/answers/index_complete.html",
+		"/D/GitHub/ZeroToCognitive/Chapter05/Documentation/answers/classifier_complete.js",
+		"/D/GitHub/ZeroToCognitive/Chapter05/controller/env.json",
+		"/D/GitHub/ZeroToCognitive/Chapter04/manifest.yml",
 		"/C/Users/IBM_ADMIN/Documents/GitHub/ZeroToCognitive/Chapter03/HTML/CSS/pageStyles.css",
 		"/C/Users/IBM_ADMIN/Documents/GitHub/ZeroToCognitive/Chapter03/controller/restapi/features/speech_to_text.js",
 		"/C/Users/IBM_ADMIN/Documents/GitHub/ZeroToCognitive/Chapter03/controller/restapi/router.js",
@@ -134,48 +209,11 @@
 		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/3. Cloud/Bluemix/Bluemix_market_basket/data/BLUEMIX_ASSOC_ACC_APP_1Q17.csv",
 		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/1. DSR Territory Management/data/Territories/RMT/FindCMR-June02.txt",
 		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/1. DSR Territory Management/data/Territories/RMT/FindCMR-Jan25.txt",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/ContactInterestProfiles/data/bps_to_exclude.txt",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/ContactInterestProfiles/data/bps_to exclude.txt",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/requests/Evan/Industry_mapping.txt",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/3. Cloud/Bluemix/Bluemix_market_basket/sql/Pull data of services bluemix",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/8. IGNITE/IGNITE - Cognitive Sales Skills Dashboard - SSA",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/8. IGNITE/Feedback/IGNITE - Sellers credentials SSA&MX",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/1. DSR Territory Management/TerritoryManager/data/raw/REGION_GEO_MAP.csv",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/4. DORs/DORs - Denise 20160607",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/meetings/Contact-level insights - Bill - Heidi meeting",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Team meetings/Tom's metting 20160729",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Team meetings/Team meeting - 20160829",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/ContactInterestProfiles/documents/quantifying the level of interest -- frequency, re",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/support/Next best Offer - Marketing performance",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20160728",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20160901",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/5. TSS - MVS/feedback/MVS- Target, Feedback & Second stage_20150907.txt",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20160827",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/6. Others/IS_Networking_Interest2016/Feedback - IS Revenue potential pilot",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Other request docum/Watson Company Analyzer (Crystal+)",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161006",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161013",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161020",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161027",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161103",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/8. IGNITE/Feedback/Ignite -feedback SSA",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161117",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161124",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/9. Client Health/Client health app.txt",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/ContactInterestProfiles/google-analytics.js",
-		"/C/Users/IBM_ADMIN/Desktop/Claves DBs.txt",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161201",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/Stefanos weekly meetings/Stefanos meeting 20161110",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/ContactInterestProfiles/Agora-shiny-20161215-102051-41189.log",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/9. Client Health/ClientHealth/ui.R",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/ContactInterestProfiles/data/EUROPE_IOT_INDIVIDUALS_INFO_13DEC16.csv",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/9. Client Health/ClientHealth/ClientHealth-shiny-20161212-092544-58842.log",
-		"/C/Users/IBM_ADMIN/Desktop/GitHubLog.txt",
-		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/9. Client Health/ClientHealth/ClientHealth-shiny-20161207-151144-59346.log"
+		"/C/Users/IBM_ADMIN/Documents/1. Manuel/1. DSO/1. Projects/2. Contact-level insights/ContactInterestProfiles/data/bps_to_exclude.txt"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -189,6 +227,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"/**",
 			"z2c",
 			"disa",
 			"col-",
@@ -319,14 +358,79 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Chapter07/index.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2033,
+								2033
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "Chapter07/key.pem",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 35.0
 	},
 	"input":
 	{
@@ -341,11 +445,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.695381882771,
 			1.0
 		],
 		"rows":
@@ -358,6 +469,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 29.0
 	},
 	"pinned_build_system": "",
 	"project": "ZeroToCognitive-sublime.sublime-project",
@@ -393,7 +508,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -401,7 +516,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 188.0,
+	"side_bar_width": 240.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
