@@ -1,0 +1,19 @@
+# Configure openSSL
+
+1. Install GnuWin32 - OpenSSL
+
+2. Set OPENSSL_CONF variable
+
+set OPENSSL_CONF=C:\Program Files (x86)\GnuWin32\share\openssl.cnf
+
+3. Create the OpenSSL
+# Create the key.pem file
+openssl genrsa -out key.pem
+
+# Don't know what it does but works by leaving all the fields in blank "."
+openssl req -new -key key.pem -out csr.pem
+
+# Be careful with the number of days
+openssl x509 -req -days 1800 -in csr.pem -signkey key.pem -out cert.pem
+
+
